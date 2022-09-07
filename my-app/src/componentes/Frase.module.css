@@ -1,0 +1,15 @@
+.linha{
+    height: 30px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    margin: 20px auto;
+}
+.corpo{
+    font-family: cursive;
+    font-size: 1.2em;
+}
